@@ -1,0 +1,8 @@
+﻿  TASK NO 2.cpp
+  TASK NO 3.cpp
+  TASK NO 4.cpp
+  TASK NO 5.cpp
+  TASK NO 6.cpp
+C:\Users\hp\source\repos\oop assignment no 1\oop assignment no 1\TASK NO 6.cpp(55,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  oop assignment no 1.vcxproj -> C:\Users\hp\source\repos\oop assignment no 1\x64\Debug\oop assignment no 1.exe
